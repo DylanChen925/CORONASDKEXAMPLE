@@ -9,4 +9,4 @@
 
 ## [高雄第一科技大學NKFUST](http://www.nkfust.edu.tw/bin/home.php)
 
-![NKFUST](banner.png "第一科大")
+![NKFUST](AB.png "第一科大")
